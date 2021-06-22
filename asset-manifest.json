@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/economist/static/css/main.023fe693.chunk.css",
-    "main.js": "/economist/static/js/main.ed1d8470.chunk.js",
-    "main.js.map": "/economist/static/js/main.ed1d8470.chunk.js.map",
+    "main.js": "/economist/static/js/main.a1563052.chunk.js",
+    "main.js.map": "/economist/static/js/main.a1563052.chunk.js.map",
     "runtime-main.js": "/economist/static/js/runtime-main.477e4f84.js",
     "runtime-main.js.map": "/economist/static/js/runtime-main.477e4f84.js.map",
     "static/js/2.21f68617.chunk.js": "/economist/static/js/2.21f68617.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.477e4f84.js",
     "static/js/2.21f68617.chunk.js",
     "static/css/main.023fe693.chunk.css",
-    "static/js/main.ed1d8470.chunk.js"
+    "static/js/main.a1563052.chunk.js"
   ]
 }
