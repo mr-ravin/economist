@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/economist/static/css/main.023fe693.chunk.css",
-    "main.js": "/economist/static/js/main.17cd32fb.chunk.js",
-    "main.js.map": "/economist/static/js/main.17cd32fb.chunk.js.map",
-    "runtime-main.js": "/economist/static/js/runtime-main.477e4f84.js",
-    "runtime-main.js.map": "/economist/static/js/runtime-main.477e4f84.js.map",
-    "static/js/2.21f68617.chunk.js": "/economist/static/js/2.21f68617.chunk.js",
-    "static/js/2.21f68617.chunk.js.map": "/economist/static/js/2.21f68617.chunk.js.map",
+    "main.js": "/economist/static/js/main.a06d1542.chunk.js",
+    "main.js.map": "/economist/static/js/main.a06d1542.chunk.js.map",
+    "runtime-main.js": "/economist/static/js/runtime-main.1e1f1a80.js",
+    "runtime-main.js.map": "/economist/static/js/runtime-main.1e1f1a80.js.map",
+    "static/js/2.f311b5e2.chunk.js": "/economist/static/js/2.f311b5e2.chunk.js",
+    "static/js/2.f311b5e2.chunk.js.map": "/economist/static/js/2.f311b5e2.chunk.js.map",
     "index.html": "/economist/index.html",
     "static/css/main.023fe693.chunk.css.map": "/economist/static/css/main.023fe693.chunk.css.map",
-    "static/js/2.21f68617.chunk.js.LICENSE.txt": "/economist/static/js/2.21f68617.chunk.js.LICENSE.txt"
+    "static/js/2.f311b5e2.chunk.js.LICENSE.txt": "/economist/static/js/2.f311b5e2.chunk.js.LICENSE.txt",
+    "static/media/AddictiveAuctions.fea57be7.pdf": "/economist/static/media/AddictiveAuctions.fea57be7.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.477e4f84.js",
-    "static/js/2.21f68617.chunk.js",
+    "static/js/runtime-main.1e1f1a80.js",
+    "static/js/2.f311b5e2.chunk.js",
     "static/css/main.023fe693.chunk.css",
-    "static/js/main.17cd32fb.chunk.js"
+    "static/js/main.a06d1542.chunk.js"
   ]
 }
