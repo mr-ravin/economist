@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/economist/static/css/main.1579e240.css",
-    "main.js": "/economist/static/js/main.2413afc2.js",
+    "main.js": "/economist/static/js/main.b46ffe56.js",
     "static/js/488.4f43fa6c.chunk.js": "/economist/static/js/488.4f43fa6c.chunk.js",
     "static/media/AddictiveAuctions.pdf": "/economist/static/media/AddictiveAuctions.fea57be7e7d2c2b61478.pdf",
     "index.html": "/economist/index.html",
     "main.1579e240.css.map": "/economist/static/css/main.1579e240.css.map",
-    "main.2413afc2.js.map": "/economist/static/js/main.2413afc2.js.map",
+    "main.b46ffe56.js.map": "/economist/static/js/main.b46ffe56.js.map",
     "488.4f43fa6c.chunk.js.map": "/economist/static/js/488.4f43fa6c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1579e240.css",
-    "static/js/main.2413afc2.js"
+    "static/js/main.b46ffe56.js"
   ]
 }
