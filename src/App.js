@@ -30,7 +30,7 @@ function App() {
      <li>Paper on Research Gate: <a target="_blank" rel="noopener noreferrer" href="https://www.researchgate.net/publication/349042403_Addictive_auctions_Using_lucky-draw_and_gambling_addiction_to_increase_participation_during_auctioning">click here</a></li>
      <li>Preprint on SSRN: <a target="_blank" rel="noopener noreferrer" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3795556">click here</a></li>
      <li>Preprint on osf.io: <a target="_blank" rel="noopener noreferrer" href="https://osf.io/darvs">click here</a></li>
-     <li>Preprint on ResearchGate: <a target="_blank" rel="noopener noreferrer" href="https://www.researchgate.net/publication/333671899_Addictive_Auctions_using_lucky-draw_and_gambling_addiction_to_increase_participation_during_auctioning">click here</a></li>
+     <li>Preprint on Research Gate: <a target="_blank" rel="noopener noreferrer" href="https://www.researchgate.net/publication/333671899_Addictive_Auctions_using_lucky-draw_and_gambling_addiction_to_increase_participation_during_auctioning">click here</a></li>
      <li>Github repository (python code): <a target="_blank" rel="noopener noreferrer" href="https://github.com/mr-ravin/collaborative-auction">source code</a></li>
      </ol>
      </p>
